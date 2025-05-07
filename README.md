@@ -6,8 +6,6 @@
 
 ## Cluster-Specific Mean *n*-gon
 
-This project uses R for data analysis.
-
 ```r
 v <- function(a, l, r) {
   n <- length(a)
@@ -29,3 +27,6 @@ v <- function(a, l, r) {
       V[, index + 1] <- c(l[index]*cos(theta[index]), l[index]*sin(theta[index])) + V[, index]
     }
   }
+```
+
+<img src="images/MFM_mean_ngons.png" alt="Hover Title" title="Hover Title" width="700"/>
