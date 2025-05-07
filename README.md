@@ -29,4 +29,4 @@ v <- function(a, l, r) {
   }
 ```
 
-<img src="images/MFM_mean_ngons.png" alt="Hover Title" title="Hover Title" width="700"/>
+<img src="images/MFM_mean_ngons.png" alt="Hover Title" title="Hover Title" width="600"/>
