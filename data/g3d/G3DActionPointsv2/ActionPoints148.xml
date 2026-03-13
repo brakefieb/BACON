@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfActionPoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ActionPoint>
+    <Action>PunchRight</Action>
+    <Frame>143</Frame>
+  </ActionPoint>
+  <ActionPoint>
+    <Action>PunchLeft</Action>
+    <Frame>200</Frame>
+  </ActionPoint>
+  <ActionPoint>
+    <Action>KickRight</Action>
+    <Frame>269</Frame>
+  </ActionPoint>
+  <ActionPoint>
+    <Action>KickLeft</Action>
+    <Frame>331</Frame>
+  </ActionPoint>
+  <ActionPoint>
+    <Action>Defend</Action>
+    <Frame>387</Frame>
+  </ActionPoint>
+</ArrayOfActionPoint>
