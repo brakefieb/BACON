@@ -44,7 +44,7 @@ burn <- iter/2
 
 res <- bacon_mfm(A, L, w_A = 1, w_L = 0, 
                  z_0, K_max = K_max, alpha = 30, 
-                 est_sr = FALSE, est_s = TRUE, est_r = TRUE, alpha_s = 1, beta_s = 1, omega = 0.5, 
+                 est_sr = TRUE, est_s = TRUE, est_r = TRUE, alpha_s = 1, beta_s = 1, omega = 0.5, 
                  a_theta = 0.001, b_theta = 0.001, a_lambda = 0.001, b_lambda = 0.001, tau_theta = 0.1, tau_lambda = 0.1, 
                  iter = iter)
 
